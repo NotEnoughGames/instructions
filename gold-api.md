@@ -1,6 +1,6 @@
 # NotEnoughGames 黄金 API
 
-我们将 NotEnoughGames 的 API 分为[普通 API](https://github.com/NotEnoughGames/metadata-server) 与黄金 API 两种。前者的生产版本以 AGPL-3.0 开源在 GitHub 上，而后者为我们的私有代码。
+我们将 NotEnoughGames 的 API 分为 [普通 API](https://github.com/NotEnoughGames/metadata-server) 与黄金 API 两种。前者的生产版本以 AGPL-3.0 开源在 GitHub 上，而后者为我们的私有代码。
 
 黄金 API 主要提供对中文元数据的批量访问。NotEnoughGames 在此秉承着开放的原则提供 API 访问参考。若您需要对应的完整数据库，亦可联系 `notenoughgames@public.oott123.com` 说明来意，我们将尽力协助。
 
